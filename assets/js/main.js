@@ -1,5 +1,4 @@
 // Remove unnecessary IIFE (Immediately Invoked Function Expression)
-"use strict";
 
 document.addEventListener('DOMContentLoaded', function () {
   /**
